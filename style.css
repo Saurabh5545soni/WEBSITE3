@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding:0;
+    background-color: lightblue;
+    box-sizing: border-box;
+    font-family: arial;
+
+    body{
+        display: flex;
+        justify-content: center;
+        min-height: 100vh;
+        align-items: center;
+        
+    }
+   
+           
+            
+            img{
+                max-width : 100%;
+                max-height : 100%;
+                float: left;
+                
+            }
+            .picture1{
+                width : 500px;
+                height : 500px;
+                float: left; 
+                border: 3px black;
+                margin-right: 20px;
+                margin: 100px auto;
+                width : 75%
+
+            }
+            .text h2{
+                font-size: 50px;
+                padding : 5px;
+                float: center;
+                text-align: center;
+                text-align: bottom;
+            }
+            .text a{
+                font-size:30px;
+                float:center;
+                text-align :  centre;
+
+            }
+          
+        }
